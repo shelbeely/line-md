@@ -1,0 +1,14 @@
+{
+	"viewBox": "0 0 24 24",
+	"content": "<path class=\"gm4stz\"/>",
+	"fallback": "line-md:gemini",
+	"keyframes": {
+		"so-from-57": "0%{stroke-dashoffset:57}"
+	},
+	"classes": {
+		"gm4stz": "stroke-linecap:round;stroke-linejoin:round;stroke:currentColor;stroke-width:2px;d:path('M12 2.5C12 7 19.5 12 21.5 12C19.5 12 12 17 12 21.5C12 17 4.5 12 2.5 12C4.5 12 12 7 12 2.5Z');fill:none;"
+	},
+	"animations": {
+		"gm4stz": "stroke-dasharray:57;animation:0.6s linear forwards so-from-57;"
+	}
+}
