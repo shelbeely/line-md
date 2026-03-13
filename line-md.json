@@ -17,7 +17,7 @@
       "map-marker-off-loop"
     ],
     "height": 24,
-    "total": 1218
+    "total": 1222
   },
   "lastModified": 1771678648,
   "icons": {
@@ -89,6 +89,9 @@
     },
     "align-right": {
       "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M20 5h-13\" stroke-dasharray=\"16\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.3s\" fill=\"freeze\" values=\"16;0\"/></path><path d=\"M20 10h-10\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path><path d=\"M20 15h-16\" stroke-dasharray=\"18\" stroke-dashoffset=\"18\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.3s\" fill=\"freeze\" to=\"0\"/></path><path d=\"M20 20h-13\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.8s\" dur=\"0.3s\" fill=\"freeze\" to=\"0\"/></path></g>"
+    },
+    "anthropic": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M7.80 5.30L2.50 18.69H5.46L6.55 15.88H12.09L13.17 18.69H16.14L10.84 5.30Z\" stroke-dasharray=\"50\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.5s\" fill=\"freeze\" values=\"50;0\"/></path><path d=\"M16.21 5.30H13.29L18.59 18.69H21.50Z\" stroke-dasharray=\"22\" stroke-dashoffset=\"22\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.55s\" dur=\"0.35s\" fill=\"freeze\" to=\"0\"/></path></g>"
     },
     "arrow-align-bottom": {
       "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M3 21l18 0\" stroke-dasharray=\"20\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.3s\" fill=\"freeze\" values=\"20;0\"/></path><path d=\"M12 3l0 13.5\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.3s\" fill=\"freeze\" to=\"0\"/></path><path d=\"M12 17l4 -4M12 17l-4 -4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path></g>"
@@ -1992,6 +1995,9 @@
     "github-twotone-loop": {
       "body": "<defs><mask id=\"SVGssb1EdSh\"><path d=\"M9.5 8c0.83 0 1.5 0.45 1.5 1c0 0.55 -0.67 1 -1.5 1c-0.83 0 -1.5 -0.45 -1.5 -1c0 -0.55 0.67 -1 1.5 -1ZM14.5 8c0.83 0 1.5 0.45 1.5 1c0 0.55 -0.67 1 -1.5 1c-0.83 0 -1.5 -0.45 -1.5 -1c0 -0.55 0.67 -1 1.5 -1Z\" fill=\"#fff\"/><rect x=\"8\" y=\"7\" width=\"8\" height=\"4\" fill=\"#000\"><animate attributeName=\"y\" dur=\"9s\" repeatCount=\"indefinite\" keyTimes=\"0;0.45;0.46;0.54;0.55;1\" values=\"7;7;11;11;7;7\"/></rect></mask></defs><path d=\"M15 4.5c-0.39 -0.1 -1.33 -0.5 -3 -0.5c-1.67 0 -2.61 0.4 -3 0.5c-0.53 -0.43 -1.94 -1.5 -3.5 -1.5c-0.34 1 -0.29 2.22 0 3c-0.75 1 -1 2 -1 3.5c0 2.19 0.48 3.58 1.5 4.5c1.02 0.92 2.11 1.37 3.5 1.5c-0.65 0.54 -0.5 1.87 -0.5 2.5v4h6v-4c0 -0.63 0.15 -1.96 -0.5 -2.5c1.39 -0.13 2.48 -0.58 3.5 -1.5c1.02 -0.92 1.5 -2.31 1.5 -4.5c0 -1.5 -0.25 -2.5 -1 -3.5c0.29 -0.78 0.34 -2 0 -3c-1.56 0 -2.97 1.07 -3.5 1.5Z\" fill=\"currentColor\" fill-opacity=\"0\"><animate attributeName=\"fill-opacity\" begin=\"0.9s\" dur=\"0.15s\" fill=\"freeze\" to=\"0.3\"/></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 4c1.67 0 2.61 0.4 3 0.5c0.53 -0.43 1.94 -1.5 3.5 -1.5c0.34 1 0.29 2.22 0 3c0.75 1 1 2 1 3.5c0 2.19 -0.48 3.58 -1.5 4.5c-1.02 0.92 -2.11 1.37 -3.5 1.5c0.65 0.54 0.5 1.87 0.5 2.5c0 0.73 0 3 0 3M12 4c-1.67 0 -2.61 0.4 -3 0.5c-0.53 -0.43 -1.94 -1.5 -3.5 -1.5c-0.34 1 -0.29 2.22 0 3c-0.75 1 -1 2 -1 3.5c0 2.19 0.48 3.58 1.5 4.5c1.02 0.92 2.11 1.37 3.5 1.5c-0.65 0.54 -0.5 1.87 -0.5 2.5c0 0.73 0 3 0 3\" stroke-dasharray=\"32\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"32;0\"/></path><path d=\"M9 19c-1.41 0 -2.84 -0.56 -3.69 -1.19c-0.84 -0.62 -1.09 -1.66 -2.31 -2.31\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"d\" dur=\"3s\" repeatCount=\"indefinite\" keyTimes=\"0;0.5;1\" values=\"M9 19c-1.41 0 -2.84 -0.56 -3.69 -1.19c-0.84 -0.62 -1.09 -1.66 -2.31 -2.31;M9 19c-1.41 0 -3 -0.5 -4 -0.5c-0.53 0 -1 0 -2 -0.5;M9 19c-1.41 0 -2.84 -0.56 -3.69 -1.19c-0.84 -0.62 -1.09 -1.66 -2.31 -2.31\"/><animate attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path></g><path d=\"M0 0h24v24H0z\" fill=\"currentColor\" mask=\"url(#SVGssb1EdSh)\"/>"
     },
+    "google-gemini": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 2.5C12 7.5 16.5 12 21.5 12C16.5 12 12 16.5 12 21.5C12 16.5 7.5 12 2.5 12C7.5 12 12 7.5 12 2.5Z\" stroke-dasharray=\"64\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"64;0\"/></path></g>"
+    },
     "grid-3": {
       "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"12\"><path d=\"M3.5 5c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM10.5 5c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM17.5 5c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5Z\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.2s\" fill=\"freeze\" values=\"12;0\"/></path><path d=\"M3.5 12c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM10.5 12c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM17.5 12c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5Z\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.2s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path><path d=\"M3.5 19c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM10.5 19c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5ZM17.5 19c0 -0.83 0.67 -1.5 1.5 -1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83 -0.67 1.5 -1.5 1.5c-0.83 0 -1.5 -0.67 -1.5 -1.5Z\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path></g>"
     },
@@ -2469,6 +2475,9 @@
     "minus-square-twotone": {
       "body": "<g stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M4 12v-7c0 -0.55 0.45 -1 1 -1h14c0.55 0 1 0.45 1 1v14c0 0.55 -0.45 1 -1 1h-14c-0.55 0 -1 -0.45 -1 -1Z\" fill=\"currentColor\" fill-opacity=\"0\" stroke-dasharray=\"66\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"66;0\"/><animate attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.15s\" fill=\"freeze\" to=\"0.3\"/></path><path d=\"M7 12h10\" fill=\"none\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.85s\" dur=\"0.2s\" fill=\"freeze\" to=\"0\"/></path></g>"
     },
+    "mistral": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M16.07 5.21v2.72h-2.72v2.71h-2.71V7.93H7.93V5.21H5.21v10.86H2.50v2.71h8.14v-2.71H7.93v-2.72h2.71v2.72h2.71v-2.72h2.72v2.72h-2.72v2.71H21.50v-2.71h-2.72V5.21Z\" stroke-dasharray=\"104\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.8s\" fill=\"freeze\" values=\"104;0\"/></path></g>"
+    },
     "monitor": {
       "body": "<path d=\"M12 17h-10v-14h20v14Z\" stroke=\"currentColor\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"70\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"70;0\"/></path><path d=\"M10 16h4v0h-4Z\" fill=\"currentColor\"><animate attributeName=\"d\" begin=\"0.6s\" dur=\"0.2s\" fill=\"freeze\" to=\"M10 16h4v6h-4Z\"/></path><path d=\"M12 21h3M12 21h-3\" stroke=\"currentColor\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"6\" stroke-dashoffset=\"6\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.8s\" dur=\"0.4s\" fill=\"freeze\" to=\"0\"/></path>"
     },
@@ -2738,6 +2747,9 @@
     },
     "navigation-right-up": {
       "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M3 15h9c2.76 0 5 -2.24 5 -5v-6\" stroke-dasharray=\"26\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"26;0\"/></path><path d=\"M17 3l4 4M17 3l-4 4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.4s\" fill=\"freeze\" to=\"0\"/></path></g>"
+    },
+    "openai": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 2.5Q16.87 4.58 20.23 7.25Q21.73 12 20.23 16.75Q16.87 19.42 12 21.5Q7.14 19.42 3.77 16.75Q2.27 12 3.77 7.25Q7.14 4.58 12 2.5Z\" stroke-dasharray=\"60\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"60;0\"/></path></g>"
     },
     "paint-drop": {
       "body": "<path d=\"M12 3c0 0 7 6 7 12c0 2 -1 6 -7 6M12 3c0 0 -7 6 -7 12c0 2 1 6 7 6\" stroke=\"currentColor\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"28\"><animate attributeName=\"stroke-dashoffset\" dur=\"0.6s\" fill=\"freeze\" values=\"28;0\"/></path>"
@@ -4620,6 +4632,7 @@
       "menu-unfold-right"
     ],
     "Social": [
+      "anthropic",
       "at",
       "bluesky",
       "bluesky-filled",
@@ -4677,6 +4690,7 @@
       "github-loop",
       "github-twotone",
       "github-twotone-loop",
+      "google-gemini",
       "heart",
       "heart-filled",
       "heart-filled-half",
@@ -4696,6 +4710,8 @@
       "mastodon",
       "mastodon-filled",
       "mastodon-twotone",
+      "mistral",
+      "openai",
       "patreon",
       "peertube",
       "peertube-alt",

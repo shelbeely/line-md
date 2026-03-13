@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><style>.c52fed {
+  d: path('M12 2.5Q16.87 4.58 20.23 7.25Q21.73 12 20.23 16.75Q16.87 19.42 12 21.5Q7.14 19.42 3.77 16.75Q2.27 12 3.77 7.25Q7.14 4.58 12 2.5Z');
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: currentColor;
+  stroke-width: 2px;
+  fill: none;
+}
+
+@media not (prefers-reduced-motion) {
+  .c52fed {
+    stroke-dasharray: 60;
+    animation: 0.6s linear forwards so-from-60;
+  }
+}
+
+@keyframes so-from-60 {
+  0% {
+    stroke-dashoffset: 60;
+  }
+}
+</style><path class="c52fed"/></svg>
