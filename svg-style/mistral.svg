@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><style>.ffe496 {
+  d: path('M16.07 5.21v2.72h-2.72v2.71h-2.71V7.93H7.93V5.21H5.21v10.86H2.50v2.71h8.14v-2.71H7.93v-2.72h2.71v2.72h2.71v-2.72h2.72v2.72h-2.72v2.71H21.50v-2.71h-2.72V5.21Z');
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: currentColor;
+  stroke-width: 2px;
+  fill: none;
+}
+
+@media not (prefers-reduced-motion) {
+  .ffe496 {
+    stroke-dasharray: 104;
+    animation: 0.8s linear forwards so-from-104;
+  }
+}
+
+@keyframes so-from-104 {
+  0% {
+    stroke-dashoffset: 104;
+  }
+}
+</style><path class="ffe496"/></svg>

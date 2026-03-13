@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><style>.h4e1ea {
+  d: path('M7.80 5.30L2.50 18.69H5.46L6.55 15.88H12.09L13.17 18.69H16.14L10.84 5.30Z');
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: currentColor;
+  stroke-width: 2px;
+  fill: none;
+}
+
+.fba211 {
+  d: path('M16.21 5.30H13.29L18.59 18.69H21.50Z');
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: currentColor;
+  stroke-width: 2px;
+  fill: none;
+}
+
+@media not (prefers-reduced-motion) {
+  .h4e1ea {
+    stroke-dasharray: 50;
+    animation: 0.5s linear forwards so-from-50;
+  }
+  .fba211 {
+    stroke-dasharray: 22;
+    stroke-dashoffset: 22;
+    animation: 0.35s linear 0.55s forwards so-to-0;
+  }
+}
+
+@keyframes so-from-50 {
+  0% {
+    stroke-dashoffset: 50;
+  }
+}
+
+@keyframes so-to-0 {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+</style><path class="h4e1ea"/><path class="fba211"/></svg>
